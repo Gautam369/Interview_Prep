@@ -1,0 +1,10 @@
+Code(yourself) and run these logics: 
+1. smallest number between 3 numbers.
+2. Smallest between 15 numbers (using array)
+3. Ascending order.
+4. Descending order.
+5. Fibonacci
+6. Factorial
+7. Addition of 10 numbers.
+8. ATM withrawal program.
+9. Writing & reading to/from a file. triangle pattern using "*"
